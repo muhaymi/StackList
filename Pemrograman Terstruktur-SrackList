@@ -1,11 +1,13 @@
 /*Tugas Kelompok Stack List
 Nama-anggota:
-1. 
+1. muhaymi nurdin (2017051070)
 2.
 3.
 
 Link Github: .....
 */
+
+
 #include <bits/stdc++.h>
 #define MAX_STACK_SIZE 100
 
